@@ -1,0 +1,10 @@
+.app{
+    display: flex;
+    flex-direction: column;
+    gap:3rem;
+    align-items: center;
+}
+
+.inProgress{
+    font-size: 3rem;
+}
